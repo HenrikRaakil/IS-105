@@ -2,9 +2,9 @@
 /shelf/
 /.idea/
 /workspace.xml
-/modul1-del2.iml/
-# Editor-based HTTP Client requests
-/httpRequests/
+/modul1-del1.iml/
 # Datasource local storage ignored files
 /dataSources/
 /dataSources.local.xml
+# Editor-based HTTP Client requests
+/httpRequests/
