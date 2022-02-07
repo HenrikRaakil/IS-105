@@ -2,40 +2,7 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="b3abcd2c-2f5d-4a5a-bf94-e7a6c1e73625" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/../modul1-del1/wireshark/.idea/.gitignore" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../modul1-del1/wireshark/.idea/icon.svg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../modul1-del1/wireshark/.idea/misc.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../modul1-del1/wireshark/.idea/modules.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../modul1-del1/wireshark/.idea/vcs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../modul1-del1/wireshark/.idea/wireshark.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../modul1-del1/wireshark/.idea/workspace.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../modul1-del1/wireshark/tcpclient" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../modul1-del1/wireshark/tcpclient.go" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../modul1-del1/wireshark/tcpserver" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../modul1-del1/wireshark/tcpserver.go" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../modul1-del2/.idea/.name" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../modul1-del2/.idea/is-105-del2.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../modul1-del2/.idea/misc.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../modul1-del2/.idea/modules.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../modul1-del2/.idea/vcs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../modul1-del2/.idea/workspace.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../modul1-del2/README.md" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../modul1-del2/go.mod" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../modul1-del2/go.sum" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../modul1-del2/main.go" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../modul1-del2/quote/eksempel.go" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.gitignore" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/.name" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/del3test.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/README.md" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/go.mod" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/main.go" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/state/state.go" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/state/state_test.go" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../modul1-del2/.gitignore" beforeDir="false" afterPath="$PROJECT_DIR$/../modul1-del2/.gitignore" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -96,6 +63,7 @@
       <workItem from="1643559496454" duration="87000" />
       <workItem from="1644260134404" duration="296000" />
       <workItem from="1644260547030" duration="60000" />
+      <workItem from="1644268998388" duration="6000" />
     </task>
     <servers />
   </component>

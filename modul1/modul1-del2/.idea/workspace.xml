@@ -2,41 +2,7 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="ea8f451e-b15a-4fd1-99b0-1eec9ace3e1b" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/../modul1-del1/wireshark/.idea/.gitignore" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../modul1-del1/wireshark/.idea/icon.svg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../modul1-del1/wireshark/.idea/misc.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../modul1-del1/wireshark/.idea/modules.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../modul1-del1/wireshark/.idea/vcs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../modul1-del1/wireshark/.idea/wireshark.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../modul1-del1/wireshark/.idea/workspace.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../modul1-del1/wireshark/tcpclient" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../modul1-del1/wireshark/tcpclient.go" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../modul1-del1/wireshark/tcpserver" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../modul1-del1/wireshark/tcpserver.go" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.gitignore" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/.name" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/is-105-del2.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/README.md" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/go.mod" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/go.sum" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/main.go" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/quote/eksempel.go" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../modul1-del3/.gitignore" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../modul1-del3/.idea/.name" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../modul1-del3/.idea/del3test.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../modul1-del3/.idea/misc.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../modul1-del3/.idea/modules.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../modul1-del3/.idea/vcs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../modul1-del3/.idea/workspace.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../modul1-del3/README.md" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../modul1-del3/go.mod" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../modul1-del3/main.go" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../modul1-del3/state/state.go" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../modul1-del3/state/state_test.go" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.gitignore" beforeDir="false" afterPath="$PROJECT_DIR$/.gitignore" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -88,6 +54,7 @@
       <workItem from="1644257237183" duration="5000" />
       <workItem from="1644259006851" duration="292000" />
       <workItem from="1644260611425" duration="22000" />
+      <workItem from="1644268977573" duration="27000" />
     </task>
     <servers />
   </component>
