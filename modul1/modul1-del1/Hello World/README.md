@@ -6,7 +6,7 @@ In this folder there are three examples from three different programming languag
 ## Bash ![#c1f12e](https://via.placeholder.com/15/c1f12e/000000?text=+)
 * HelloWorld.sh
 * No need to compile
-* Execute program in unix terminal with `sh` or with 'bash'
+* Execute program in unix terminal with `sh` or with `bash`
 
 ## Java ![#b07219](https://via.placeholder.com/15/b07219/000000?text=+)
 * HelloWorld.java
