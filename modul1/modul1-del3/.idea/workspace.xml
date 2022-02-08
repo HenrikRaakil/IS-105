@@ -2,7 +2,11 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="b3abcd2c-2f5d-4a5a-bf94-e7a6c1e73625" name="Changes" comment="">
-      <change beforePath="$PROJECT_DIR$/../modul1-del2/.gitignore" beforeDir="false" afterPath="$PROJECT_DIR$/../modul1-del2/.gitignore" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../modul1-del2/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../modul1-del2/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/main.go" beforeDir="false" afterPath="$PROJECT_DIR$/main.go" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/state/state.go" beforeDir="false" afterPath="$PROJECT_DIR$/state/state.go" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/state/state_test.go" beforeDir="false" afterPath="$PROJECT_DIR$/state/state_test.go" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -36,7 +40,7 @@
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="last_opened_file_path" value="$PROJECT_DIR$" />
     <property name="nodejs_package_manager_path" value="npm" />
-    <property name="settings.editor.selected.configurable" value="project.propVCSSupport.Mappings" />
+    <property name="settings.editor.selected.configurable" value="editor.preferences.fonts.default" />
   </component>
   <component name="RecentsManager">
     <key name="MoveFile.RECENT_KEYS">
@@ -64,6 +68,8 @@
       <workItem from="1644260134404" duration="296000" />
       <workItem from="1644260547030" duration="60000" />
       <workItem from="1644268998388" duration="6000" />
+      <workItem from="1644330420966" duration="1548000" />
+      <workItem from="1644340598272" duration="5968000" />
     </task>
     <servers />
   </component>

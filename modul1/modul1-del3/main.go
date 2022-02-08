@@ -2,6 +2,7 @@ package main
 
 import (
     "fmt"
+    "state/state.go"
     "github.com/HenrikRaakil/is105-del3test/state"
 )
 
