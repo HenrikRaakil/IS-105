@@ -2,12 +2,10 @@ package main
 
 import (
     "fmt"
-    "state/state.go"
     "github.com/HenrikRaakil/is105-del3test/state"
 )
 
 func main(){
-
     fmt.Println("Dyrene ble venner og reven spiste ikke høna underturen")
     fmt.Println(state.ViewState())
     fmt.Println(state.PutInBoat())
