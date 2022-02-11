@@ -18,3 +18,9 @@ In this folder there are three examples from three different programming languag
 * HelloWorld.go
 * Compile program in unix terminal with `go build`
 * Execute program in unix terminal with `go`
+
+## ![#e34c26](https://via.placeholder.com/15/e34c26/000000?text=+) HTML
+
+* HelloWorld.html
+* Raw text
+* Not a programming language
