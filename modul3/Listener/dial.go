@@ -11,7 +11,8 @@ func main() {
 	if err != nil {
 		fmt.Println(err)
 	}
-	defer conn.Close()
+	defer conn.
+		Close()
 	fmt.Fprintf(conn, "Hei\n")
 	echo, err := bufio.NewReader(conn).ReadString('\n')
 	fmt.Println(echo)
