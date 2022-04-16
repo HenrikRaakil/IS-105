@@ -1,8 +1,15 @@
-# Default ignored files
+# IntelliJ
 /shelf/
-/workspace.xml
+/.idea/
+*.iml
+*.iws
+
+# Go
+go.mod
+
 # Datasource local storage ignored files
 /dataSources/
 /dataSources.local.xml
+
 # Editor-based HTTP Client requests
 /httpRequests/
